@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I am Anton.<br>🎥 In my free time I visualize algorithms and upload interesting dev content on social media.<br>💻 I am currently a programming student.<br>🤖 As of now, I'm developing an advanced AI trading system.<br>🚀 I actively seek opportunities to collaborate on diverse projects with other developers.<br>🌐 Feel free to contact me regarding anything!
+👋 Hello, I am Anton.<br>🎥 In my free time I visualize algorithms and upload interesting dev content on social media.<br>💻 I am currently a programming student.<br>🤖 As of now, I'm developing an AI trading system.<br>🌐 Feel free to contact me regarding anything!
 
 
 ## 🌐 Socials:
